@@ -1,1 +1,1 @@
-# Deep-Learing-of-cancer-
+# Deep-Learning-of-cancer
